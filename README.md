@@ -10,7 +10,7 @@ Or upload the files: index.php and banner to your WWW directory
 Enter your domain as TXT in your DNS server as follows:
 domain.tld TXT 'redirect_http://www.your.tld/directory/file.html'
 
-The file index.php now checks when calling if the TXT entry exists and then redirects to your previously set Internet addresse in the DNS.
+The file index.php now checks when calling if the TXT entry exists and then redirects to your previously set Internet address in the DNS.
 
 LIVE-Demo: http://redirect.uber.space
 -------------------------------
